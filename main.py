@@ -28,12 +28,6 @@ def record(ask = False):
 def response(voice):
     if "nasılsın" in voice:
         speak("iyi balım senden")
-    if "Murat seni sordu" in voice:
-        speak("hangi murat")
-    if "koyayım da tur at" in voice:
-        speak("hahahaha cem yılmaz")
-    if "Erseni seviyor musun" in voice:
-        speak("hiç sevmiyorum hemde hiç hahahahaha")
     if "beni seviyor musun" in voice:
         speak("çok seviyorum hayatımın anlamı")
     if "saat kaç" in voice:
