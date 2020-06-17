@@ -1,0 +1,11 @@
+speech_recognition 
+datetime 
+webbrowser
+time
+gTTS
+random
+os
+
+pyaudio yüklenmediği durumda aşağıdaki komut satırı terminalde çalıştırılmalı.
+pip install pipwin
+pipwin install pyaudio
