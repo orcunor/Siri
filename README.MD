@@ -1,5 +1,5 @@
 # Siri Uygulaması - Python
-Bilgisayarınızla karşılıklı konuşabildiğiniz basit bir siri uygulaması. 
+Simple Siri Application
 
 # Gereklilikler(Requirements)
-requirements.txt dosyasına bakınız.
+check the requirements.txt 
