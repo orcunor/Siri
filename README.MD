@@ -1,5 +1,5 @@
-# Siri Uygulaması - Python
+# Simple Siri Application
 Simple Siri Application
 
-# Gereklilikler(Requirements)
+# Requirements
 check the requirements.txt 
